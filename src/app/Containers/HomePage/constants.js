@@ -1,0 +1,4 @@
+export const FETCH_DATA = 'homePage/FETCH_DATA'
+export const FETCH_DATA_PENDING = 'homePage/FETCH_DATA_PENDING'
+export const FETCH_DATA_FULFILLED = 'homePage/FETCH_DATA_FULFILLED'
+export const FETCH_DATA_REJECTED = 'homePage/FETCH_DATA_REJECTED'
